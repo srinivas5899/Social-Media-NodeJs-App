@@ -21,7 +21,7 @@
     "kue": "^0.11.6",
     "mongoose": "^6.5.4",
     "multer": "^1.4.5-lts.1",
-    "node-sass-middleware": "^1.0.1",
+    "sass": "^1.58.3",
     "nodemailer": "^6.7.8",
     "nodemon": "^2.0.20",
     "passport": "^0.6.0",
